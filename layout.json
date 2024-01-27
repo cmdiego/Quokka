@@ -1,0 +1,28 @@
+{
+    "appleScriptApp": {
+      "__init__.py": "Initializes the Python package",
+      "main.applescript": "Main AppleScript entry point",
+      "config.py": "Configuration settings",
+      "scripts": {
+        "__init__.py": "",
+        "itunes_script.applescript": "Script for iTunes automation",
+        "finder_script.applescript": "Script for Finder automation"
+      },
+      "pythonModules": {
+        "__init__.py": "",
+        "data_parser.py": "Python module for parsing data",
+        "utility.py": "Python utility functions"
+      },
+      "resources": {
+        "__init__.py": "",
+        "templates.xml": "XML templates for scripting",
+        "config.plist": "Property list for configuration"
+      },
+      "tests": {
+        "__init__.py": "",
+        "test_itunes_script.applescript": "Tests for iTunes AppleScript",
+        "test_finder_script.applescript": "Tests for Finder AppleScript",
+        "test_data_parser.py": "Tests for Python data parser module"
+      }
+    }
+  }

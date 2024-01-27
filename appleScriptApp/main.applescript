@@ -1,0 +1,1 @@
+Main AppleScript entry point

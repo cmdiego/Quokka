@@ -1,0 +1,37 @@
+import os
+import json
+
+def create_dir(path):
+    """Create a directory if it doesn't already exist."""
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+def create_file(path, content):
+    """Create a file with specified content."""
+    with open(path, 'w') as file:
+        file.write(content)
+
+def create_structure(data, parent_path=""):
+    """Recursively create the folder and file structure."""
+    for name, value in data.items():
+        path = os.path.join(parent_path, name)
+
+        if isinstance(value, dict):
+            # It's a directory, create it and process its contents
+            create_dir(path)
+            create_structure(value, path)
+        else:
+            # It's a file, create it with the provided content
+            create_file(path, value)
+
+def main(json_file):
+    # Load the JSON file
+    with open(json_file, 'r') as file:
+        data = json.load(file)
+
+    # Start the structure creation process
+    create_structure(data)
+
+if __name__ == "__main__":
+    json_file = 'layout.json'  # Replace with your JSON file path
+    main(json_file)
