@@ -1,6 +1,6 @@
 import os
-from .search import data_search
-# TODO from .data_parser 
+from search import data_search
+# TODO from .data_parser
 
 if __name__ == "__main__":
     parent_dir = os.path.dirname(os.path.realpath(__file__))
