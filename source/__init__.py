@@ -1,6 +1,3 @@
-import os
-import data_tool
-
 if __name__ == "main":
     print(r"""
   / __ \            | |  | |        
