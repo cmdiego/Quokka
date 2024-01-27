@@ -13,11 +13,6 @@
         "data_parser.py": "Python module for parsing data",
         "utility.py": "Python utility functions"
       },
-      "resources": {
-        "__init__.py": "",
-        "templates.xml": "XML templates for scripting",
-        "config.plist": "Property list for configuration"
-      },
       "tests": {
         "__init__.py": "",
         "test_itunes_script.applescript": "Tests for iTunes AppleScript",
