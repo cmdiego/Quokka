@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-01-27T00:17:19Z</date>
+	<key>Application Version</key><string>12.13.1.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/diego/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>F07BDF2EB604B413</string>
+	<key>Tracks</key>
+	<dict>
+		<key>76</key>
+		<dict>
+			<key>Track ID</key><integer>76</integer>
+			<key>Name</key><string>Mogane (Guillaume &#38; The Coutu Dumonts Remix)</string>
+			<key>Artist</key><string>Sety</string>
+			<key>Album</key><string>Luciano - Fabric 41</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10330612</integer>
+			<key>Total Time</key><integer>253440</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2024-01-27T00:03:48Z</date>
+			<key>Date Added</key><date>2024-01-27T00:07:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0C16752B3F0AF09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/SoulseekQt/SoulseekQt_dwnld/complete/An-Fer/%5B2008%5D%20Fabric%2041%20-%20Luciano%20%5BFABRIC81%5D/07.%20Sety%20-%20Mogane%20(Guillaume%20&#38;%20The%20Coutu%20Dumonts%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>78</integer>
+			<key>Playlist Persistent ID</key><string>8BFA681074196E44</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>76</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>82</integer>
+			<key>Playlist Persistent ID</key><string>32B900CC1379A303</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>76</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>86</integer>
+			<key>Playlist Persistent ID</key><string>B883102319113019</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>76</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>99</integer>
+			<key>Playlist Persistent ID</key><string>8F62132290FFCF2C</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102</integer>
+			<key>Playlist Persistent ID</key><string>77FB44CB676A180D</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist Persistent ID</key><string>49DB31A885087752</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>111</integer>
+			<key>Playlist Persistent ID</key><string>004A826F396A901A</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>114</integer>
+			<key>Playlist Persistent ID</key><string>C419326F6C6048BC</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>121</integer>
+			<key>Playlist Persistent ID</key><string>EE70A8C95A3B57F6</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>124</integer>
+			<key>Playlist Persistent ID</key><string>53440E0D15CFD55E</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>
