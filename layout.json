@@ -1,23 +1,13 @@
 {
-    "appleScriptApp": {
-      "__init__.py": "Initializes the Python package",
-      "main.applescript": "Main AppleScript entry point",
-      "config.py": "Configuration settings",
-      "scripts": {
-        "__init__.py": "",
-        "itunes_script.applescript": "Script for iTunes automation",
-        "finder_script.applescript": "Script for Finder automation"
-      },
-      "pythonModules": {
-        "__init__.py": "",
-        "data_parser.py": "Python module for parsing data",
-        "utility.py": "Python utility functions"
-      },
-      "tests": {
-        "__init__.py": "",
-        "test_itunes_script.applescript": "Tests for iTunes AppleScript",
-        "test_finder_script.applescript": "Tests for Finder AppleScript",
-        "test_data_parser.py": "Tests for Python data parser module"
-      }
-    }
+  "source":
+  {
+    "utils": {
+      "__init__.py": "Init Tool class for access to load_mp3",
+      "load_mp3": "Creates a new folder contain all the mp3 files found in the 'downloads' folder",
+    },
+    "main.py" : "Main script",
+    "test_searcher.py": "Tests search module",
+    "layout.json" : "Source Tree Layout",
+    "itunes_lib.xml" : "Imported iTunes music library xml contains songs metadata"
   }
+}

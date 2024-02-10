@@ -27,7 +27,7 @@ def load_mp3(path, target_dir):
                 # Move the file
                 try:
                     shutil.move(mp3_file_path, target_dir)
-                except shutil.Error as error:   # Duplicates will trigger this
+                except shutil.Error as error:   # TODO: Duplicates will trigger this
                     print(f"Failed to move file: {mp3_file_path} -> {target_dir}, reason: {error}")
                 print(f"Moved: {mp3_file_path} -> {target_dir}")
     return target_dir
